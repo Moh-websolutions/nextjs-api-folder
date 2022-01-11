@@ -1,0 +1,81 @@
+{
+"news": [
+    {
+    "id":"1",
+    "slug": "conventional-machining",
+    "title": "Conventional Machining",
+    "titlefr": "Usinage conventionnel",
+    "description": ["At ADS Machine Shop, we take conventional machining seriously, using the best tools in the market to ensure customer satisfaction for Allardville, NB and surrounding areas. If you're looking for a trustworthy source for your conventional machining needs, you've found the right business. Under the supervision of our highly trained and qualified machinist team, we get the job done right for you, producing both simple and complex machine parts accurately. Our sophisticated processes guarantee efficiency, saving you time and money. We are fully equipped to build you new parts, repairs or replacement parts.", "Our fleet of machinery offers the highest precision for a personalized service for any client. We are constantly striving to improve and develop our methods with upgraded equipment to better serve you. We believe that keeping our existing clients happy comes first, by building lasting relationships that include loyalty and integrity. By choosing ADS, you will receive the best advice to stay on budget and on schedule.", "For a consultation and to determine the best way to keep you operating at 100% productivity,  please contact us."],
+    "descriptionfr": ["ADS Machine utilise l’usinage conventionnel depuis plusieurs années et cette technique est devenue l’une de nos spécialités. Notre équipe de professionnels travaille avec un grand souci des détails sur les machineries sans commande numérique, ce qui requiert les habiletés nécessaires pour appliquer les techniques appropriées et spécialisées de manutention et de montage des pièces afin d’utiliser les différents procédés selon les demandes de nos clients.", "L’usinage conventionnel étant manœuvré manuellement par des professionnels qualifiés, il est important pour nous de vous offrir un travail fait avec minutie, de grande qualité et en fonction de vos besoins.", "Communiquez avec notre équipe d’experts, dès maintenant !"],
+    "titlecontent": "High Quality & Precision",
+    "titlecontentfr": "Haute qualité et précision"
+    },
+    
+    { 
+    "id":"2",   
+    "slug": "cnc",
+    "title": "Digital Machining (CNC)",
+    "titlefr": "Usinage numérique (CNC)",
+    "description" :["Look no further for quality service in digital machining for Allardville, NB and beyond. The technologically advanced machinery we utilize is capable of developing parts that are exceedingly complex. Computerized Numerical Control offers the latest in machine construction and maintenance. Our combination of on-going training programs for employees and updated software result in the production of highly accurate parts. ADS can accommodate all of your prototype manufacturing requests and secondary operations on a wide range of machine parts.", "Our knowledgeable staff is enthusiastic about using this computerized technology to accomplish the most challenging jobs for our clients. We earn your business through our cost-effective and consistent work each time. Your business will stay on-budget when choosing our services, which are conveniently available 24/7 to better serve you.", "Maintain your optimal work flow and get an estimate with us."],
+    "descriptionfr" :["Cette technique d’usinage est une fonction qui est entièrement déterminée par un programme qui commande les déplacements des outils lors de la fabrication de la pièce. L’usinage numérique est utilisé lors de la reproduction en série de pièces identiques afin de répondre d’une façon optimale à vos demandes de production de moins de dix pièces.", "Celle-ci étant soumise par commande numérique par calculateur, soit ordinateur (CNC), cette méthode est offerte à nos clients depuis longtemps. Elle permet une standardisation et une qualité supérieure ainsi qu’une plus grande rapidité sur la production des pièces demandées, et ce à prix abordable.", "Ne tardez plus et communiquez avec ADS Machine dès maintenant!"],
+    "titlecontent": "Cutting-Edge Technology",
+    "titlecontentfr": "Technologie de pointe"
+    }, 
+
+
+    {
+    "id":"3",    
+    "slug": "welding",
+    "title": "Welding",
+    "titlefr": "Soudage",
+    "description":["With the highest in industry standards, ADS Machine Shop Inc. delivers with superior results for our clients. Our unrivaled team is qualified and regularly trained to stay up-to-date with the latest machinery to serve Allardville and surrounding areas. We are dedicated and enthusiastic when it comes to assisting you with even the most challenging of projects. Welding is one of our specialties, and we can help you effectively with any large or small-scale project you're hoping to achieve. Options including MIG, TIG and ARC welding, paired with our impressive facilities and a multitude of steel grade and other metal choices will get the job done efficiently for you.", "Our equipment allows for meticulous precision with its modern capacity and a wide variety of complex capabilities. Our mission is to deliver on accuracy and timeliness on a budget that suits your needs. Welding offers customers strong bonds that won't suffer from distortion or warping. Repairs on damaged machinery or the construction of new parts is taken seriously. We adhere to strict guidelines that result in lasting relationships with our clients.", "We are conveniently available 24/7 for Allardville, NB and for the surrounding area, and gladly offer free estimates."],
+    "descriptionfr":["Notre équipement de pointe nous permet d’offrir un service de soudage de haute qualité. Notre équipe d’experts peut transformer votre pièce en chef-d’œuvre avec la création d’un bain de fusion et ainsi créer une liaison de métaux ou en ajoutant un alliage métallique à la fusion afin de souder ceux-ci ensemble pour obtenir un tout continu.", "De plus, nos services sont également disponibles pour la réparation tels qu’une fuite dans votre système de tuyauteries, l’usure sur vos équipements, et plus encore.", "N'hésitez pas à consulter la section « Soudure et Usinage mobile » pour en connaître davantage sur les services offerts par notre équipe mobile."],
+    "titlecontent": "Superior Results",
+    "titlecontentfr": "Des résultats supérieurs"
+    },
+
+    {  
+    "id":"4",  
+    "slug": "manufacturing",
+    "title": "Manufacturing",
+    "titlefr": "Fabrication",
+    "description":["Our fabrication processes at ADS Machine Shop Inc. serve Allardville, NB and surrounding areas with the best in manufacturing implementation. We are your optimal choice for the fabrication of steel bars, angles, beams, steel plates, tubes, curving, cutting, rolling and much more. Equipped with a highly skilled and specialized team of draftsmen and engineers, we are dedicated to accommodating your needs. Upgrades with the latest tools and technology paired with regularly improved processes result in a more detailed accuracy.", "The designing and drafting processes of projects is always coordinated promptly, giving you time to focus on your most important tasks. Reduced costs and longevity of parts are the benefits you can appreciate from our craftsmanship. We are more than happy to assist you with consultation prior to commencing projects.", "Contact us for your free estimate."],
+    "descriptionfr":["Au fils des années, notre équipe d’experts continue de se démarquer par la qualité supérieure des services offerts lors de la fabrication de ses pièces et l’attention toute particulière qu’elle apporte aux détails.", "En combinant tous ces éléments avec notre équipement à la fine pointe de la technologie, ceci nous permet de vous offrir le meilleur sur le marché, que ce soit dans la fabrication de pièces en série ou sur mesure selon les dimensions demandées. Nous comprenons l’importance d’un travail bien fait. Afin de répondre à vos exigences, nous travaillons en étroite collaboration avec nos clients.", "Faites-nous parvenir votre concept et laissez notre équipe s’occuper du reste."],
+    "titlecontent": "Custom Metal Fabrication",
+    "titlecontentfr": "Projets sur mesure"
+    }, 
+
+    { 
+    "id":"5",   
+    "slug": "cnc-plasma-cutting",
+    "title": "CNC Plasma Cutting",
+    "titlefr": "découpage-au-plasma",
+    "description":["We offer the best methods in plasma cutting for a wide variety of custom parts. ADS Machine Shop Inc. is equipped with state-of-the-art plasma cutting machinery that offers affordable methods for sheet metal cutting. The wide range of options for 2D cutting ensures a speedy job at our client's convenience. These specialized services are available at a low cost due to the diligent nature of the process, including thick metal sheets. We are adept at constructing parts including metal brackets, signs, panels, heavy machinery, automotive parts and much more.", "Our materials are always of high quality and are built to last. To maximize the quality of our services, we continually strive to improve and optimize our processes. We help our clients to choose the perfect methods for their specific requirements, including more complex applications.", "ADS is available around the clock to work closely with clients for a personalized service at a competitive price, and we are happy to consult you when you need."],
+    "descriptionfr":["Cette technique de découpage automatisée demande une grande expertise en la matière et de l’équipement à la fin pointe de la technologie afin de vous offrir un résultat impeccable. ADS Machine a tout ce qu’il faut pour répondre à vos besoins. Notre découpeuse au plasma est parfaite pour découper vos pièces métalliques de façon précise et exacte, et ce dans un court délai.", "Le plasma étant un état de la matière qui est visible seulement sous haute température, il nécessite un courant électrique passant par un gaz et la fusion d’une température très élevée qui se propage au travers la pièce et permet ainsi une coupe quasi-instantanée et précise. Cette technique permet de vous offrir un résultat adapté selon les dimensions variées et personnalisées de votre projet.", "Communiquez avec nous dès maintenant!"],
+    "titlecontent": "State-of-the-art Machinery",
+    "titlecontentfr": "Technologie supérieure"
+    },   
+    
+    {  
+    "id":"6",  
+    "slug": "hydraulic-cylinders",
+    "title": "Hydraulic Cylinders",
+    "titlefr": "Réparation et conception de cylindres hydrauliques",
+    "description": ["Businesses that keep their machinery in optimal condition ensure that their performance is consistently at its peak. This means production stays high, and your investment is protected. By staying proactive, you're protecting your machinery before it breaks or fails on you. ADS Machine Shop Inc., located in Allardville, NB and serving beyond, understands this well. We're here to offer you the best in refurbishing and parts replacement to ensure your livelihood runs smoothly. We can inspect, clean, fix, reassemble, test, and thoroughly refurbish anything you send our way.", "Hydraulic cylinders play a crucial role today in conserving the reliability and effectiveness of machinery. We are here to facilitate all of your maintenance needs quickly and cost-effectively. Our knowledgeable staff and extensive range of components are here to meet or exceed your expectations. Our great customer service sets us apart from the competition. We strive to uphold our clientele through loyalty and the level of expertise we conduct while doing any type of job.", "To get a full-service treatment, contact us for an estimate."],
+    "descriptionfr": ["Les cylindres hydrauliques qui sont usinés chez ADS Machine se démarquent par leurs qualités supérieures et accèdent au rang des plus hautes exigences sur le marché. Avec notre équipement de pointe, la conception de vérins spécialisés et adaptés selon vos besoins est faite dans les règles de l’art.", "De plus, avec notre expertise dans le domaine hydraulique, notre équipe de spécialistes est à votre disposition pour faire la réparation des cylindres endommagés, usés ou même pour la vérification des huiles minérales ou composés chimiques de cylindres.", "N’attendez plus et faites appel à notre équipe d’experts dès maintenant!"],
+    "titlecontent": "Peak Performance",
+    "titlecontentfr": "Performances de pointe"
+    },   
+    
+    { 
+    "id":"7",   
+    "slug": "welding-mobile-machining",
+    "title": "Welding / Mobile Machining",
+    "titlefr": "Soudure et d’usinage mobile",
+    "description": ["ADS Machine Shop Inc. of Allardville, NB offers efficient on-site services for machining, steel fabrication and equipment revitalization. We offer the convenience of meeting you at your facility or installation site quickly at unbeatable prices. Our team of experts is enthusiastic about resolving the most complex of issues, even in areas that are confined or difficult to access. Portable services can be tailored to your needs. We cover a large region so that we can reach more remote clients seeking our professional services.", "We uphold strict quality control standards, only using high-performance tools that meet industry requirements. If you're seeking assistance in getting your machines back to their best condition, we guarantee to get the job done at your leisure. The professionals on our team will come to inspect, manage and coordinate everything you need problem-free, with health and safety in mind.", "Schedule a consultation with us so we can determine the best course of action to boost your productivity and save you money."],
+    "descriptionfr": ["ADS Machine offre également le service de soudure et d’usinage mobile. Notre équipe dévouée et hautement compétente se déplace sur les lieux pour répondre à vos besoins spécifiques. Que ce soit pour une réparation en urgence d’une pièce qui ne fonctionne plus adéquatement, la modification d’un équipement ou pour la fabrication de pièces personnalisée, nous sommes à votre disposition 24H/24.", "Puisque nous sommes dans le domaine depuis plusieurs années, nous connaissons les enjeux que cela peut engendrer lorsqu’une pièce doit être réparée ou modifiée rapidement ou même si une structure est difficilement transportable. Afin de répondre adéquatement à la demande de notre clientèle, il était important pour nous de vous offrir ce service professionnel spécialisé.", "Faites appel à notre équipe d’experts dès maintenant!"],
+    "titlecontent": "24/7 Service Available",
+    "titlecontentfr": "Service disponible 24-7"
+    }
+    ]
+}
